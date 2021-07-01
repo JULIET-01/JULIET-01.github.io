@@ -1,7 +1,22 @@
+    .big image{
+        background-image: cover;
+        background-position: center center;
+        background-image: url('../img/JB-Tekapo-19.06.20.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        }
+
+
+
+
+
     .html, body{
         background-color: grey;
         font-family: 'Open Sans', sans-serif;
+        margin: 0px;
         }
+        
         header {
         background-color: #ffffffde;
         padding: 5px;
@@ -11,17 +26,23 @@
         top: 0;
         left: 0;
         box-shadow: 0px 7px 9px 0px rgba(0,0,0,0.07);
+        margin: 0px;
         }
+        
         header h1 {
         float: left;
         padding: 20px;
+        margin: 19.92px;
         }
+        
         header ul {
         float: right;
-        margin: 20px 0 0 0;
+        margin: 40px 0 0 0;
         padding: 40px;
         list-style-type: none;
+        margin: 0px;
         }
+        
         header ul li a {
         margin: 0;
         padding: 10px 20px;
@@ -32,6 +53,7 @@
         text-decoration: none;
         text-align: right;
         }
+        
         header h2{
         float: left;
         padding: 30px;
