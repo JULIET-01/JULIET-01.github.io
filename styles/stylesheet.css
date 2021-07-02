@@ -9,8 +9,6 @@
 
 
 
-
-
     .html, body{
         background-color: grey;
         font-family: 'Open Sans', sans-serif;
@@ -33,6 +31,7 @@
         float: left;
         padding: 20px;
         margin: 19.92px;
+        font-size: 2.5vw;
         }
         
         header ul {
@@ -57,8 +56,11 @@
         header h2{
         float: left;
         padding: 30px;
+        padding-top: 31px;
+        padding-left: 10px;
         color: grey;
         font-weight: lighter;
+        font-size: 1.8vw;
         }
 
         
@@ -70,6 +72,7 @@
         margin-top: 80px;
         border: 50px;
         color: white; 
+        font-size: 2vw;
         }
 
 
@@ -80,6 +83,7 @@
             line-height: 1.5em;
             color: white;
             font-family: 'Castoro', serif;
+            font-size: 1vw;
             }
 
     .line{
@@ -89,3 +93,8 @@
         margin-bottom: 200px;
         margin-left: 30%;
         width: 50%;
+    }
+
+    img{
+        width: 100%;
+    }
