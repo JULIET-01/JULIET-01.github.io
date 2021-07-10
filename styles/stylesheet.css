@@ -1,94 +1,91 @@
+.big image{
+    background-image: cover;
+    background-position: center center;
+    background-image: url('../img/JB-Tekapo-19.06.20.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
 
-    .html, body{
-        background-color: grey;
-        font-family: 'Open Sans', sans-serif;
-        margin: 0px;
-        }
-        
+
+
+
+
+.html, body{
+    background-color: grey;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+    }
+    
     header {
-        background-color: #ffffffde;
-        padding: 5px;
-        float: left;
-        width: 100%;
-        position: fixed;
-        top: 0;
-        left: 0;
-        box-shadow: 0px 7px 9px 0px rgba(0,0,0,0.07);
-        margin: 0px;
-        }
-        
+    background-color: #ffffffde;
+    padding: 5px;
+    float: left;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 7px 9px 0px rgba(0,0,0,0.07);
+    margin: 0px;
+    }
+    
     header h1 {
-        float: left;
-        padding: 20px;
-        margin: 19.92px;
-        font-size: 2.5vw;
-        }
-        
+    float: left;
+    padding: 20px;
+    margin: 19.92px;
+    }
+    
     header ul {
-        float: right;
-        margin: 40px 0 0 0;
-        padding: 40px;
-        list-style-type: none;
-        margin: 0px;
-        }
-        
+    float: right;
+    margin: 40px 0 0 0;
+    padding: 40px;
+    list-style-type: none;
+    margin: 0px;
+    }
+    
     header ul li a {
-        margin: 0;
-        padding: 10px 20px;
-        display: block;
-        color: #000000;
-        font-weight: bold;
-        text-transform: uppercase;
-        text-decoration: none;
-        text-align: right;
-        }
-        
+    margin: 0;
+    padding: 10px 20px;
+    display: block;
+    color: #000000;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: right;
+    }
+    
     header h2{
-        float: left;
-        padding: 30px;
-        padding-top: 31px;
-        padding-left: 10px;
-        color: grey;
-        font-weight: lighter;
-        font-size: 1.8vw;
-        }
+    float: left;
+    padding: 30px;
+    color: grey;
+    font-weight: lighter;
+    }
 
+    
 
     h3{
-        width: 100%;
-        padding: 0px;
-        margin-left: 200px;
-        margin-top: 80px;
-        border: 50px;
-        color: white; 
-        font-size: 2vw;
-        }
+    width: 100%;
+    padding: 0px;
+    margin-left: 200px;
+    margin-top: 80px;
+    border: 50px;
+    color: white; 
+    }
 
 
-    p{
+    p {
         margin-left: 200px;
-        margin-top: 10px;
+        margin-top: 50px;
         margin-bottom: 100px;
         line-height: 1.5em;
         color: white;
         font-family: 'Castoro', serif;
-        font-size: 1vw;
         }
 
-    .line{
-        border-bottom: .5px solid rgb(153, 151, 151);
-        display: block;
-        margin-top: 0px;
-        margin-bottom: 200px;
-        margin-left: 30%;
-        width: 50%;  
-    }
-
-    img{
-        width: 40%;
-        margin-left:200px;
-    }
-
-    .border{
-        width: 50%;
-    }
+.line{
+    border-bottom: .5px solid rgb(153, 151, 151);
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 200px;
+    margin-left: 30%;
+    width: 50%;
