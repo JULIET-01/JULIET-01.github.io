@@ -7,6 +7,17 @@
     background-attachment: fixed;
     }
 
+    title ul li a {
+        margin-top: 300;
+        padding: 10px 20px;
+        display: block;
+        color: #000000;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-decoration: none;
+        text-align: left;
+        position: relative;
+    } 
 
 
 
@@ -22,7 +33,7 @@
     padding: 5px;
     float: left;
     width: 100%;
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     box-shadow: 0px 7px 9px 0px rgba(0,0,0,0.07);
@@ -42,7 +53,9 @@
     list-style-type: none;
     margin: 0px;
     }
-    
+
+
+
     header ul li a {
     margin: 0;
     padding: 10px 20px;
@@ -54,6 +67,8 @@
     text-align: right;
     }
     
+    
+
     header h2{
     float: left;
     padding: 30px;
@@ -61,7 +76,6 @@
     font-weight: lighter;
     }
 
-    
 
     h3{
     width: 100%;
